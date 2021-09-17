@@ -9,3 +9,5 @@ A realtime chat web Application
 * Express 
 * Socket.io
 * HTML, CSS, JavaScript
+
+Credits: Andrew Mead Udemy
